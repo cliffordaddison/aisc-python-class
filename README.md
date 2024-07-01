@@ -1,2 +1,2 @@
 # aisc-python-class
-This is a repo for my python and machine learning assignments
+This is a repo for my python and machine learning assignment
